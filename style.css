@@ -17,6 +17,11 @@ img{
         padding: 5px;
 }
 
+.responsive{
+  width: 100%;
+  height: auto;
+}
+
 input[type=text], select, textarea {
     width: 100%;
     padding: 12px;
