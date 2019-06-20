@@ -62,3 +62,7 @@ input[type=submit]:hover {
 label {
   color: white;
 }
+
+ul{
+  padding-right: 80px;
+}
