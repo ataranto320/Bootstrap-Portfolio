@@ -64,6 +64,7 @@ label {
 }
 
 ul{
-  padding-right: 80px;
+  padding-right: 5px;
+  padding-left: 5px;
   /* text-size-adjust: small; */
 }
