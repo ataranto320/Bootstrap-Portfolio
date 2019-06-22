@@ -77,6 +77,10 @@ ul{
     color: white;
 }
 
+a{
+    color: white;
+}
+
 @media screen and (max-width: 980px) {
   [class="container"]{
       width: 100%;
