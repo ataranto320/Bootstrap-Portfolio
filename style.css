@@ -1,7 +1,7 @@
 h2{
     border: 3px;
     background-color: #ffffff;
-    color: blue;
+    color: red;
     padding: 5px;
     
 }
@@ -12,7 +12,8 @@ h2{
 }
 
 body{
-  background-image: url(https://i.ytimg.com/vi/pegZ1w5W9N4/maxresdefault.jpg)
+  /* background-image: url(https://i.ytimg.com/vi/pegZ1w5W9N4/maxresdefault.jpg) */
+  background-image: url(https://s3.envato.com/files/218429202/Preview_Image_.jpg)
 }
 
 img{
